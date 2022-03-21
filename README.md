@@ -9,7 +9,10 @@ includes a class that extends **AppWidgetProvider** which can create instances o
 
 ## Features
 The setting of this program is a reminder app. The user can select a time via the picker. A Toast message shows this time by setting the reminder. It is possible to 
-add a widget to the homescreen of the phone. This widget has a Button which sets the reminder 10 minutes in the future.
+add a widget to the homescreen of the phone. This widget has a Button which sets the reminder 10 minutes in the future. </br>
+
+![](demo_pictures/Screen1.png)
+![](demo_pictures/Screen2.png)
 
 ## Usage
 You can clone the repository into Android Studio by clicking "Get from VCS" in the Welcome Screen or navigating to "File - New - Project from Version Control" inside 
